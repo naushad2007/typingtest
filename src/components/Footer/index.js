@@ -16,9 +16,9 @@ const Footer = () => {
         className={styles.link}
         style={{ fontWeight: "bold" }}
       >
-        naushad2007
+        naushad2002
       </a>{" "}
-      © 2021. Built with{" "}
+      © 2021. Built with{"https://github.com/naushad2007"}
       <a
         href="https://reactjs.org/"
         target="_blank"
