@@ -10,13 +10,13 @@ const Footer = () => {
       </span>{" "}
       by{" "}
       <a
-        href="https://iamsurajdev.netlify.app/"
+        href=""
         target="_blank"
         rel="noopener noreferrer"
         className={styles.link}
         style={{ fontWeight: "bold" }}
       >
-        Suraj Biswas
+        naushad2007
       </a>{" "}
       © 2021. Built with{" "}
       <a
